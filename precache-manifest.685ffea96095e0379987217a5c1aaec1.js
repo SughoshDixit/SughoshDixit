@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "019d8663a524dfe48f7fda608e7877fa",
+    "revision": "bba8d46fddca19c972b2017e11f1eb4b",
     "url": "/SughoshDixit/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SughoshDixit/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "71b5c03e288aa89a0278",
+    "revision": "1ccb5247b8fa9f57d4c8",
     "url": "/SughoshDixit/static/css/main.12e85752.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SughoshDixit/static/js/4.211d8230.chunk.js"
   },
   {
-    "revision": "71b5c03e288aa89a0278",
-    "url": "/SughoshDixit/static/js/main.d3e8be96.chunk.js"
+    "revision": "1ccb5247b8fa9f57d4c8",
+    "url": "/SughoshDixit/static/js/main.ea3fbb64.chunk.js"
   },
   {
     "revision": "9040f1984be9f94b3165",
@@ -52,10 +52,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SughoshDixit/static/media/contactMail.398b5497.webp"
   },
   {
-    "revision": "59389695208d7454c6607bed51ed4316",
-    "url": "/SughoshDixit/static/media/developerActivity.59389695.svg"
-  },
-  {
     "revision": "25bf045ca257e971124f3997d89f321c",
     "url": "/SughoshDixit/static/media/logo.25bf045c.svg"
   },
@@ -74,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/SughoshDixit/static/media/skill.34409398.svg"
+  },
+  {
+    "revision": "e0b2f5226b2ac238a645a37249c58c88",
+    "url": "/SughoshDixit/static/media/sug.e0b2f522.jpg"
   },
   {
     "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
