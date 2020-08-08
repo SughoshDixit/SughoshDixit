@@ -21,8 +21,8 @@ const socialMediaLinks = {
   github: "http://github.com/invincible0809",
   linkedin: "https://www.linkedin.com/in/sughosh-dixit",
   gmail: "sughoshpdixit@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  gitlab: "https://gitlab.com/sughoshpdixit",
+  facebook: "https://www.facebook.com/sughoshpdixit",
   instagram: "https://www.instagram.com/sughoshdixit/",
   twitter: "https://twitter.com/PSughosh",
   // Instagram and Twitter are also supported in the links!
@@ -31,7 +31,7 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "What I do",
   subTitle:
     "CRAZY LIVERPOOL F.C FAN WHO WANTS TO EXPLORE EVERY TECH STACK AND DO SOME EXCITING PROJECTS",
   skills: [
