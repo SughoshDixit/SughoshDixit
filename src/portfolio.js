@@ -39,7 +39,7 @@ const skillsSection = {
       "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
     ),
     emoji("⚡ Want to go to ANFIELD one day! #YNWA"),
-    emoji("⚡ If you think you have an exiting idea to work on, PING ME!!!"),
+    emoji("⚡ If you think you have an exciting idea to work on, PING ME!!!"),
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon
