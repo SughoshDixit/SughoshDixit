@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9cc978d75e4842d08c5c66febb5582a",
+    "revision": "d8cbce69df9590c1a0ae36581cb78afe",
     "url": "/SughoshDixit/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SughoshDixit/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "e7500c8d68eedd27c953",
+    "revision": "de9b900827782731b0e2",
     "url": "/SughoshDixit/static/css/main.d40eb014.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SughoshDixit/static/js/4.e9808eb1.chunk.js"
   },
   {
-    "revision": "e7500c8d68eedd27c953",
-    "url": "/SughoshDixit/static/js/main.98430dc4.chunk.js"
+    "revision": "de9b900827782731b0e2",
+    "url": "/SughoshDixit/static/js/main.c7599352.chunk.js"
   },
   {
     "revision": "27f6279fbff492802398",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SughoshDixit/static/media/Rakuten.7b904413.jpg"
   },
   {
-    "revision": "68e841388612be0c5143e2932fb77d4f",
-    "url": "/SughoshDixit/static/media/contactMail.68e84138.webp"
+    "revision": "398b54970996bd1473991830b782b7fe",
+    "url": "/SughoshDixit/static/media/contactMail.398b5497.webp"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
