@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SughoshDixit/static/css/main.12e85752.chunk.css",
-    "main.js": "/SughoshDixit/static/js/main.ea3fbb64.chunk.js",
-    "main.js.map": "/SughoshDixit/static/js/main.ea3fbb64.chunk.js.map",
+    "main.js": "/SughoshDixit/static/js/main.d3e8be96.chunk.js",
+    "main.js.map": "/SughoshDixit/static/js/main.d3e8be96.chunk.js.map",
     "runtime-main.js": "/SughoshDixit/static/js/runtime-main.9ba9bb45.js",
     "runtime-main.js.map": "/SughoshDixit/static/js/runtime-main.9ba9bb45.js.map",
     "static/js/2.67cc4b7f.chunk.js": "/SughoshDixit/static/js/2.67cc4b7f.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.211d8230.chunk.js": "/SughoshDixit/static/js/4.211d8230.chunk.js",
     "static/js/4.211d8230.chunk.js.map": "/SughoshDixit/static/js/4.211d8230.chunk.js.map",
     "index.html": "/SughoshDixit/index.html",
-    "precache-manifest.685ffea96095e0379987217a5c1aaec1.js": "/SughoshDixit/precache-manifest.685ffea96095e0379987217a5c1aaec1.js",
+    "precache-manifest.5e11a0cfc97b04bb08557538b7f09439.js": "/SughoshDixit/precache-manifest.5e11a0cfc97b04bb08557538b7f09439.js",
     "service-worker.js": "/SughoshDixit/service-worker.js",
     "static/css/3.f9898e9a.chunk.css.map": "/SughoshDixit/static/css/3.f9898e9a.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/SughoshDixit/static/css/4.54df59d4.chunk.css.map",
@@ -22,18 +22,18 @@
     "static/media/index.css": "/SughoshDixit/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Rakuten.jpg": "/SughoshDixit/static/media/Rakuten.7b904413.jpg",
     "static/media/contactMail.webp": "/SughoshDixit/static/media/contactMail.398b5497.webp",
+    "static/media/developerActivity.svg": "/SughoshDixit/static/media/developerActivity.59389695.svg",
     "static/media/logo.svg": "/SughoshDixit/static/media/logo.25bf045c.svg",
     "static/media/logo.png": "/SughoshDixit/static/media/logo.933caf72.png",
     "static/media/manOnTable.svg": "/SughoshDixit/static/media/manOnTable.52be3144.svg",
     "static/media/paniit.png": "/SughoshDixit/static/media/paniit.f5b9c664.png",
     "static/media/skill.svg": "/SughoshDixit/static/media/skill.34409398.svg",
-    "static/media/sug.jpg": "/SughoshDixit/static/media/sug.e0b2f522.jpg",
     "static/media/TalkCard.css": "/SughoshDixit/static/media/talksCardBack.0288c5ec.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9ba9bb45.js",
     "static/js/2.67cc4b7f.chunk.js",
     "static/css/main.12e85752.chunk.css",
-    "static/js/main.ea3fbb64.chunk.js"
+    "static/js/main.d3e8be96.chunk.js"
   ]
 }
