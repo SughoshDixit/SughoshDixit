@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fbd38ad98ca90bc2e678b94f132d0a7",
+    "revision": "fe1fb57879d0914fb82819c97e52eb3e",
     "url": "/SughoshDixit/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SughoshDixit/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "380bee1b9097ba82931f",
+    "revision": "c7bfa4a9b937f7d6fe80",
     "url": "/SughoshDixit/static/css/main.d40eb014.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SughoshDixit/static/js/4.e9808eb1.chunk.js"
   },
   {
-    "revision": "380bee1b9097ba82931f",
-    "url": "/SughoshDixit/static/js/main.092f6a12.chunk.js"
+    "revision": "c7bfa4a9b937f7d6fe80",
+    "url": "/SughoshDixit/static/js/main.1612e272.chunk.js"
   },
   {
     "revision": "27f6279fbff492802398",
