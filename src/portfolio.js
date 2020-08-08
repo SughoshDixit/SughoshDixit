@@ -262,7 +262,7 @@ const talkSection = {
       title: "Quaratine For Sure",
       subtitle:
         "An app to monitor and guide Quarantined Individuals during COVID-19",
-      slides_url: "#",
+      slides_url: "https://github.com/prajwalcool/QFS",
       event_url: "https://www.youtube.com/watch?v=UWUO_3lW8zE&t=4s",
     },
   ],

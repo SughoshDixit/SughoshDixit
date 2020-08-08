@@ -1,7 +1,7 @@
 import React from "react";
 import "./TalkCard.css";
 
-export default function TalkCard({talkDetails}) {
+export default function TalkCard({ talkDetails }) {
   return (
     <div>
       <div class="container">
@@ -12,10 +12,10 @@ export default function TalkCard({talkDetails}) {
 
           <div className="card-footer-button-div">
             <a href={talkDetails.slides_url} target="_" class="talk-button">
-              Slides
+              Repository
             </a>
             <a href={talkDetails.event_url} target="_" class="talk-button">
-              Event
+              Project Pitch
             </a>
           </div>
         </div>
