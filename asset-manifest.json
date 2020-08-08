@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/SughoshDixit/static/css/main.d40eb014.chunk.css",
-    "main.js": "/SughoshDixit/static/js/main.2806e4bc.chunk.js",
-    "main.js.map": "/SughoshDixit/static/js/main.2806e4bc.chunk.js.map",
-    "runtime-main.js": "/SughoshDixit/static/js/runtime-main.e42a4f18.js",
-    "runtime-main.js.map": "/SughoshDixit/static/js/runtime-main.e42a4f18.js.map",
-    "static/js/2.83b254b1.chunk.js": "/SughoshDixit/static/js/2.83b254b1.chunk.js",
-    "static/js/2.83b254b1.chunk.js.map": "/SughoshDixit/static/js/2.83b254b1.chunk.js.map",
+    "main.css": "/SughoshDixit/static/css/main.12e85752.chunk.css",
+    "main.js": "/SughoshDixit/static/js/main.d3e8be96.chunk.js",
+    "main.js.map": "/SughoshDixit/static/js/main.d3e8be96.chunk.js.map",
+    "runtime-main.js": "/SughoshDixit/static/js/runtime-main.9ba9bb45.js",
+    "runtime-main.js.map": "/SughoshDixit/static/js/runtime-main.9ba9bb45.js.map",
+    "static/js/2.67cc4b7f.chunk.js": "/SughoshDixit/static/js/2.67cc4b7f.chunk.js",
+    "static/js/2.67cc4b7f.chunk.js.map": "/SughoshDixit/static/js/2.67cc4b7f.chunk.js.map",
     "static/css/3.f9898e9a.chunk.css": "/SughoshDixit/static/css/3.f9898e9a.chunk.css",
-    "static/js/3.e73509b7.chunk.js": "/SughoshDixit/static/js/3.e73509b7.chunk.js",
-    "static/js/3.e73509b7.chunk.js.map": "/SughoshDixit/static/js/3.e73509b7.chunk.js.map",
+    "static/js/3.cda9b5f2.chunk.js": "/SughoshDixit/static/js/3.cda9b5f2.chunk.js",
+    "static/js/3.cda9b5f2.chunk.js.map": "/SughoshDixit/static/js/3.cda9b5f2.chunk.js.map",
     "static/css/4.54df59d4.chunk.css": "/SughoshDixit/static/css/4.54df59d4.chunk.css",
-    "static/js/4.e9808eb1.chunk.js": "/SughoshDixit/static/js/4.e9808eb1.chunk.js",
-    "static/js/4.e9808eb1.chunk.js.map": "/SughoshDixit/static/js/4.e9808eb1.chunk.js.map",
+    "static/js/4.211d8230.chunk.js": "/SughoshDixit/static/js/4.211d8230.chunk.js",
+    "static/js/4.211d8230.chunk.js.map": "/SughoshDixit/static/js/4.211d8230.chunk.js.map",
     "index.html": "/SughoshDixit/index.html",
-    "precache-manifest.908b375b7ddd2f0bb31232f8a20fc9e0.js": "/SughoshDixit/precache-manifest.908b375b7ddd2f0bb31232f8a20fc9e0.js",
+    "precache-manifest.5e11a0cfc97b04bb08557538b7f09439.js": "/SughoshDixit/precache-manifest.5e11a0cfc97b04bb08557538b7f09439.js",
     "service-worker.js": "/SughoshDixit/service-worker.js",
     "static/css/3.f9898e9a.chunk.css.map": "/SughoshDixit/static/css/3.f9898e9a.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/SughoshDixit/static/css/4.54df59d4.chunk.css.map",
-    "static/css/main.d40eb014.chunk.css.map": "/SughoshDixit/static/css/main.d40eb014.chunk.css.map",
+    "static/css/main.12e85752.chunk.css.map": "/SughoshDixit/static/css/main.12e85752.chunk.css.map",
     "static/media/index.css": "/SughoshDixit/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Rakuten.jpg": "/SughoshDixit/static/media/Rakuten.7b904413.jpg",
     "static/media/contactMail.webp": "/SughoshDixit/static/media/contactMail.398b5497.webp",
@@ -31,9 +31,9 @@
     "static/media/TalkCard.css": "/SughoshDixit/static/media/talksCardBack.0288c5ec.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e42a4f18.js",
-    "static/js/2.83b254b1.chunk.js",
-    "static/css/main.d40eb014.chunk.css",
-    "static/js/main.2806e4bc.chunk.js"
+    "static/js/runtime-main.9ba9bb45.js",
+    "static/js/2.67cc4b7f.chunk.js",
+    "static/css/main.12e85752.chunk.css",
+    "static/js/main.d3e8be96.chunk.js"
   ]
 }

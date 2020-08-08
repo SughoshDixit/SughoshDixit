@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9f61b824b959c163c7f813dca884a9c",
+    "revision": "019d8663a524dfe48f7fda608e7877fa",
     "url": "/SughoshDixit/index.html"
   },
   {
-    "revision": "d31d2e4f9881423e43ae",
+    "revision": "7f44bae76b81525f80c1",
     "url": "/SughoshDixit/static/css/3.f9898e9a.chunk.css"
   },
   {
-    "revision": "46824c1b4a7a7017519f",
+    "revision": "4e6a06c9bbfaab01ad30",
     "url": "/SughoshDixit/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "5d8ed791f540d48e8d11",
-    "url": "/SughoshDixit/static/css/main.d40eb014.chunk.css"
+    "revision": "71b5c03e288aa89a0278",
+    "url": "/SughoshDixit/static/css/main.12e85752.chunk.css"
   },
   {
-    "revision": "5f2aa8592562e952aec6",
-    "url": "/SughoshDixit/static/js/2.83b254b1.chunk.js"
+    "revision": "914e29bea37c93f4beb5",
+    "url": "/SughoshDixit/static/js/2.67cc4b7f.chunk.js"
   },
   {
-    "revision": "d31d2e4f9881423e43ae",
-    "url": "/SughoshDixit/static/js/3.e73509b7.chunk.js"
+    "revision": "7f44bae76b81525f80c1",
+    "url": "/SughoshDixit/static/js/3.cda9b5f2.chunk.js"
   },
   {
-    "revision": "46824c1b4a7a7017519f",
-    "url": "/SughoshDixit/static/js/4.e9808eb1.chunk.js"
+    "revision": "4e6a06c9bbfaab01ad30",
+    "url": "/SughoshDixit/static/js/4.211d8230.chunk.js"
   },
   {
-    "revision": "5d8ed791f540d48e8d11",
-    "url": "/SughoshDixit/static/js/main.2806e4bc.chunk.js"
+    "revision": "71b5c03e288aa89a0278",
+    "url": "/SughoshDixit/static/js/main.d3e8be96.chunk.js"
   },
   {
-    "revision": "27f6279fbff492802398",
-    "url": "/SughoshDixit/static/js/runtime-main.e42a4f18.js"
+    "revision": "9040f1984be9f94b3165",
+    "url": "/SughoshDixit/static/js/runtime-main.9ba9bb45.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
