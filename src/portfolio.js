@@ -163,6 +163,10 @@ const bigProjects = {
       image: require("./assets/images/logo.png"),
       link: "https://printalytix.com/",
     },
+    {
+      image: require("./assets/images/siemens.gif"),
+      link: "https://siemens.com/",
+    },
   ],
 };
 
