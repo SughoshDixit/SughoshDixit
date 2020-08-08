@@ -7,7 +7,7 @@ import emoji from "react-easy-emoji";
 const greeting = {
   /* Your Summary And Greeting Section */
   username: "Sughosh Dixit",
-  title: "Namaste _/|\\_ I'm Sughosh!",
+  title: " _/|\\_ I'm Sughosh!",
   subTitle: emoji(
     "A passionate Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Flask  and some other cool libraries and frameworks."
   ),
@@ -38,7 +38,7 @@ const skillsSection = {
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web applications"
     ),
-    emoji("⚡ Want to go to ANFIELD one day!"),
+    emoji("⚡ Want to go to ANFIELD one day! #YNWA"),
     emoji("⚡ If you think you have an exiting idea to work on, PING ME!!!"),
   ],
 
@@ -149,7 +149,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "invincible0809", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
 };
 
@@ -183,24 +183,28 @@ const achievementSection = {
         {
           name: "Certification",
           url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing",
+            "https://drive.google.com/file/d/1XjBXLgkwovXpdsEgIiO4LpzSofx96V0q/view?usp=sharing",
         },
         {
           name: "Project Link",
+          url: "https://github.com/prajwalcool/Alphers-Frontend",
+        },
+        {
+          name: "Memories!",
           url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing",
+            "https://drive.google.com/file/d/1Nminpury38NcPhArbmFg6gEiKv4PPfkX/view?usp=sharing",
         },
       ],
     },
     {
       title: "Rakathon 2.0",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+      subtitle: "An application to convert 2-D images to their 3-D view",
       image: require("./assets/images/Rakuten.jpg"),
       footerLink: [
         {
           name: "Certification",
-          url: "",
+          url:
+            "https://drive.google.com/file/d/1b0gMXkVoNRCR4au2hVUcAXOCoWH1h_9E/view?usp=sharing",
         },
       ],
     },
@@ -211,10 +215,14 @@ const achievementSection = {
         "A Manuscript based on my team's Final Year Engineering Project",
       image: require("./assets/images/IRJET.jpg"),
       footerLink: [
-        { name: "Certification", url: "" },
         {
-          name: "Final Project",
-          url: "",
+          name: "Certification",
+          url:
+            "https://drive.google.com/file/d/1SAZZrAQUw0bQoVJ8sMo3nlSynYzJK_O_/view?usp=sharing",
+        },
+        {
+          name: "Manuscript",
+          url: "https://irjet.net/archives/V7/i7/IRJET-V7I7285.pdf",
         },
       ],
     },
