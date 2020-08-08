@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SughoshDixit/static/css/main.d40eb014.chunk.css",
-    "main.js": "/SughoshDixit/static/js/main.6245c79e.chunk.js",
-    "main.js.map": "/SughoshDixit/static/js/main.6245c79e.chunk.js.map",
+    "main.js": "/SughoshDixit/static/js/main.fc6ae76e.chunk.js",
+    "main.js.map": "/SughoshDixit/static/js/main.fc6ae76e.chunk.js.map",
     "runtime-main.js": "/SughoshDixit/static/js/runtime-main.e42a4f18.js",
     "runtime-main.js.map": "/SughoshDixit/static/js/runtime-main.e42a4f18.js.map",
     "static/js/2.83b254b1.chunk.js": "/SughoshDixit/static/js/2.83b254b1.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.e9808eb1.chunk.js": "/SughoshDixit/static/js/4.e9808eb1.chunk.js",
     "static/js/4.e9808eb1.chunk.js.map": "/SughoshDixit/static/js/4.e9808eb1.chunk.js.map",
     "index.html": "/SughoshDixit/index.html",
-    "precache-manifest.2572deb56cb9b2a874a0f9fc643ea936.js": "/SughoshDixit/precache-manifest.2572deb56cb9b2a874a0f9fc643ea936.js",
+    "precache-manifest.faa7be701ed78f062ec611f71c4068e8.js": "/SughoshDixit/precache-manifest.faa7be701ed78f062ec611f71c4068e8.js",
     "service-worker.js": "/SughoshDixit/service-worker.js",
     "static/css/3.f9898e9a.chunk.css.map": "/SughoshDixit/static/css/3.f9898e9a.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/SughoshDixit/static/css/4.54df59d4.chunk.css.map",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.e42a4f18.js",
     "static/js/2.83b254b1.chunk.js",
     "static/css/main.d40eb014.chunk.css",
-    "static/js/main.6245c79e.chunk.js"
+    "static/js/main.fc6ae76e.chunk.js"
   ]
 }
