@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/SughoshDixit/static/css/main.3ed128e5.chunk.css",
+    "main.js": "/SughoshDixit/static/js/main.b36d7ba8.chunk.js",
+    "main.js.map": "/SughoshDixit/static/js/main.b36d7ba8.chunk.js.map",
+    "runtime-main.js": "/SughoshDixit/static/js/runtime-main.9c3c835e.js",
+    "runtime-main.js.map": "/SughoshDixit/static/js/runtime-main.9c3c835e.js.map",
+    "static/js/2.67cc4b7f.chunk.js": "/SughoshDixit/static/js/2.67cc4b7f.chunk.js",
+    "static/js/2.67cc4b7f.chunk.js.map": "/SughoshDixit/static/js/2.67cc4b7f.chunk.js.map",
+    "static/css/3.b499fcd2.chunk.css": "/SughoshDixit/static/css/3.b499fcd2.chunk.css",
+    "static/js/3.cda9b5f2.chunk.js": "/SughoshDixit/static/js/3.cda9b5f2.chunk.js",
+    "static/js/3.cda9b5f2.chunk.js.map": "/SughoshDixit/static/js/3.cda9b5f2.chunk.js.map",
+    "static/css/4.01c87591.chunk.css": "/SughoshDixit/static/css/4.01c87591.chunk.css",
+    "static/js/4.211d8230.chunk.js": "/SughoshDixit/static/js/4.211d8230.chunk.js",
+    "static/js/4.211d8230.chunk.js.map": "/SughoshDixit/static/js/4.211d8230.chunk.js.map",
+    "index.html": "/SughoshDixit/index.html",
+    "precache-manifest.b85fef20f5db43f3526835d9eba4f417.js": "/SughoshDixit/precache-manifest.b85fef20f5db43f3526835d9eba4f417.js",
+    "service-worker.js": "/SughoshDixit/service-worker.js",
+    "static/css/3.b499fcd2.chunk.css.map": "/SughoshDixit/static/css/3.b499fcd2.chunk.css.map",
+    "static/css/4.01c87591.chunk.css.map": "/SughoshDixit/static/css/4.01c87591.chunk.css.map",
+    "static/css/main.3ed128e5.chunk.css.map": "/SughoshDixit/static/css/main.3ed128e5.chunk.css.map",
+    "static/media/index.css": "/SughoshDixit/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Rakuten.jpg": "/SughoshDixit/static/media/Rakuten.7b904413.jpg",
+    "static/media/contactMail.webp": "/SughoshDixit/static/media/contactMail.34dfe380.webp",
+    "static/media/developerActivity.svg": "/SughoshDixit/static/media/developerActivity.59389695.svg",
+    "static/media/logo.svg": "/SughoshDixit/static/media/logo.25bf045c.svg",
+    "static/media/logo.png": "/SughoshDixit/static/media/logo.933caf72.png",
+    "static/media/manOnTable.svg": "/SughoshDixit/static/media/manOnTable.52be3144.svg",
+    "static/media/paniit.png": "/SughoshDixit/static/media/paniit.f5b9c664.png",
+    "static/media/skill.svg": "/SughoshDixit/static/media/skill.34409398.svg",
+    "static/media/TalkCard.css": "/SughoshDixit/static/media/talksCardBack.de3da806.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c3c835e.js",
+    "static/js/2.67cc4b7f.chunk.js",
+    "static/css/main.3ed128e5.chunk.css",
+    "static/js/main.b36d7ba8.chunk.js"
+  ]
+}
