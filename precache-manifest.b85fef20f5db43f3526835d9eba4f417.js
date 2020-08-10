@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc14e0d7aa231e108cbd38c976aef982",
+    "revision": "5f6f2fd561eceacb8384a66c5f588068",
     "url": "/SughoshDixit/index.html"
   },
   {
-    "revision": "7f44bae76b81525f80c1",
-    "url": "/SughoshDixit/static/css/3.f9898e9a.chunk.css"
+    "revision": "866293b2390723ebc0f6",
+    "url": "/SughoshDixit/static/css/3.b499fcd2.chunk.css"
   },
   {
-    "revision": "4e6a06c9bbfaab01ad30",
-    "url": "/SughoshDixit/static/css/4.54df59d4.chunk.css"
+    "revision": "05b5fe693125fef400ba",
+    "url": "/SughoshDixit/static/css/4.01c87591.chunk.css"
   },
   {
-    "revision": "eb07bb3a5919792cf7f7",
-    "url": "/SughoshDixit/static/css/main.12e85752.chunk.css"
+    "revision": "20d2d1536b40fc50b33b",
+    "url": "/SughoshDixit/static/css/main.3ed128e5.chunk.css"
   },
   {
     "revision": "914e29bea37c93f4beb5",
     "url": "/SughoshDixit/static/js/2.67cc4b7f.chunk.js"
   },
   {
-    "revision": "7f44bae76b81525f80c1",
+    "revision": "866293b2390723ebc0f6",
     "url": "/SughoshDixit/static/js/3.cda9b5f2.chunk.js"
   },
   {
-    "revision": "4e6a06c9bbfaab01ad30",
+    "revision": "05b5fe693125fef400ba",
     "url": "/SughoshDixit/static/js/4.211d8230.chunk.js"
   },
   {
-    "revision": "eb07bb3a5919792cf7f7",
-    "url": "/SughoshDixit/static/js/main.ad0e9e22.chunk.js"
+    "revision": "20d2d1536b40fc50b33b",
+    "url": "/SughoshDixit/static/js/main.b36d7ba8.chunk.js"
   },
   {
-    "revision": "9040f1984be9f94b3165",
-    "url": "/SughoshDixit/static/js/runtime-main.9ba9bb45.js"
+    "revision": "a07ff3f4890761782f40",
+    "url": "/SughoshDixit/static/js/runtime-main.9c3c835e.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SughoshDixit/static/media/skill.34409398.svg"
   },
   {
-    "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
-    "url": "/SughoshDixit/static/media/talksCardBack.0288c5ec.svg"
+    "revision": "de3da8064f2e9ffab945772c2c67e46f",
+    "url": "/SughoshDixit/static/media/talksCardBack.de3da806.svg"
   }
 ]);
