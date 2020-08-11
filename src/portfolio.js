@@ -12,7 +12,7 @@ const greeting = {
     "A passionate Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Flask  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/141eJK4hM0YueDS8sSW6eMzIo89YKYHQv/view?usp=sharing",
+    "https://drive.google.com/file/d/1i54jc70VYdwWEKre8NvWYMfyqGrFj2UO/view?usp=sharing",
 };
 
 // Your Social Media Link
