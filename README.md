@@ -55,7 +55,7 @@ From your command line, clone and run the startwebsite.cmd by changing the path 
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/saadpasta/developerFolio.git
+$ git clone https://github.com/invincible0809/SughoshDixit.git
 
 # Go into the repository
 $ cd developerFolio
@@ -75,7 +75,7 @@ Generate a Github personal access token using these [Instructions](https://help.
 Note: Instead of creating a .env file, you can just run this command "cp env.example .env" inside the root directory 
 
 ```bash
-- DeveloperFolio
+- SughoshDixit
   - node_modules
   - public
   - src
