@@ -90,6 +90,22 @@ https://fontawesome.com/icons?d=gallery */
   ],
 };
 
+// Your education background
+
+const educationInfo = {
+  viewEducation: true, // Set it to true to see education section
+  schools: [
+    {
+      schoolName: "Bangalore Institute of Technology ",
+      logo: require("./assets/images/harvardLogo.png"),
+      subHeader: "Bachelors of Engineering",
+      duration: "September 2016 - April 2020",
+      desc: "Published 1 research paper.",
+      descBullets: ["Information Science and Engineering", "#BITISE"],
+    },
+  ],
+};
+
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
@@ -149,8 +165,8 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "", // Change to your github username to view your profile in Contact Section.
-  showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to false
+  githubUserName: "invincible0809", // Change to your github username to view your profile in Contact Section.
+  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
 };
 
 // Some Big Projects You have worked with your company
@@ -301,6 +317,7 @@ export {
   greeting,
   socialMediaLinks,
   skillsSection,
+  educationInfo,
   techStack,
   workExperiences,
   openSource,
