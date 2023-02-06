@@ -44,12 +44,13 @@
 <br />
 
 ### Hi 🙋‍♂️,
-### I'm an ardent Liverpool F.C fan !! Welcome to my github readme!!!
+### Sughosh here !! Welcome to my github readme!!!
 
 
 
 
 #### - 🔭 Astronomy  is Interesting, 
+#### - 🔭 Bharat's(India) History has been interpreted and propagated in the worst of the ways possible.
 
 
 <br />
@@ -57,7 +58,7 @@
 
 **I am Into , 🙏**
 
-**Data Science, Web Development, Competitive Programming & Football, Football and Football 😼**
+**Data Science, Web Development, Product Development, Competitive Programming & Football, Football and Football 😼**
 <br />
 
 
