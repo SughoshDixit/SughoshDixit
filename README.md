@@ -7,9 +7,8 @@
 
 
 - 🔭 I’m currently working on a Microblog app!
-- 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate on a great web application, Ping me if you have one! 
-- ⚡ Fun fact: You'll Never Walk Alone
+- ⚡ Fun fact: Bharat came first before India
 
   
 
