@@ -1,4 +1,4 @@
-###   I'm [Sughosh!](https://invincible0809.github.io/SughoshDixit/) 😄!
+###   I'm [Sughosh!](https://SughoshDixit.github.io/SughoshDixit/) 😄!
 
 
 
@@ -62,7 +62,7 @@
 <br />
 
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=invincible0809&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=SughoshDixit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 *************
 
