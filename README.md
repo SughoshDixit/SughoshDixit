@@ -2,10 +2,6 @@
 
 
 
-
-**invincible0809/invincible0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on a Microblog app!
 - 👯 I’m looking to collaborate on a great web application, Ping me if you have one! 
 - ⚡ Fun fact: Bharat came first before India
