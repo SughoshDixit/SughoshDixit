@@ -2,7 +2,7 @@
 ### Sughosh here !! Welcome to my GitHub Readme!!!
 
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=invincible0809.invincible0809)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=SughoshDixit.SughoshDixit)
 
 #### I’m currently doing Data Science at Oracle!  
 #### Footballer and Musician by Passion, Data Science by Profession, Civilizationalist by Ideology 
@@ -102,10 +102,10 @@
 
 ### Pinned Repositories
 
-<a href="https://github.com/SughoshDixit/your-repo1">
+<a href="">https://github.com/SughoshDixit/Kite-Connect-API-Implementation
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SughoshDixit&repo=your-repo1&theme=radical" />
 </a>
-<a href="https://github.com/SughoshDixit/your-repo2">
+<a href="https://github.com/SughoshDixit/Kite-Connect-API-Implementation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SughoshDixit&repo=your-repo2&theme=radical" />
 </a>
 
