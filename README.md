@@ -100,17 +100,6 @@
 
 ---
 
-### Pinned Repositories
-
-<a href="https://github.com/SughoshDixit/Kite-Connect-API-Implementation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SughoshDixit&repo=your-repo1&theme=radical" />
-</a>
-<a href="https://github.com/SughoshDixit/Kite-Connect-API-Implementation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SughoshDixit&repo=your-repo2&theme=radical" />
-</a>
-
----
-
 ### 🚀 Fun Facts about Me:
 
 - 🌌 Astronomy is something I enjoy in my free time!
