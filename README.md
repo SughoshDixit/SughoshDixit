@@ -1,112 +1,98 @@
-### Hi 🙋‍♂️,  
-### Sughosh here !! Welcome to my GitHub Readme!!!
+# 🙌 Hello, I'm Sughosh!
 
+[![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=SughoshDixit.SughoshDixit)](https://github.com/SughoshDixit)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=SughoshDixit.SughoshDixit)
+### 👨‍💻 Data Scientist @ Oracle | Footballer & Musician by passion | Civilizationalist by ideology
 
-#### I’m currently doing Data Science at Oracle!  
-#### Footballer and Musician by Passion, Data Science by Profession, Civilizationalist by Ideology 
-
----
-
-<a href="https://twitter.com/PSughosh">
-  <img align="left" alt="Sughosh Dixit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/sughosh-dixit">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/sughoshdixit">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/sughoshdixit/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/Sughosh-Dixit">
-  <img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com/invincible0809/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/invincible008">
-  <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-<br /><br />
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/jQoGptaLixVDC6gGY4/giphy.gif" />
+Welcome to my GitHub space! I'm a **Data Scientist at Oracle**, where I solve problems using data science, machine learning and AI. When I'm not crunching numbers or building models, you'll probably find me on the football pitch or playing some tunes. My work and hobbies reflect my belief in continuous learning and in celebrating Bharatiya heritage.
 
 ---
 
-### I am Into: 🙏
-- Data Science 💻
-- Web Development 🌐
-- Product Development 🚀
-- Competitive Programming 🏆
-- **Football** ⚽ ⚽ ⚽
-- Astronomy 🌌
-- Bharat's History 🏛️
+## 🔭 What I'm working on / Interests
+
+- **Data Science & Machine Learning** – building models, analyzing data and deriving insights.
+- **Web & Product Development** – crafting interactive web apps and products.
+- **Competitive Programming** – keeping problem‑solving skills sharp.
+- **Football** – playing and following the beautiful game.
+- **Astronomy** – gazing at the stars & understanding our universe.
+- **Bharat's History** – exploring the rich history and culture of India.
 
 ---
 
-### 🔧 Languages and Tools:
+## 🛠️ Languages & Tools
 
+These are some of the languages, frameworks and tools I work with regularly:
+
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Stats Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python" alt="python" />
-  <img src="https://img.shields.io/badge/Code-Javascript-yellow?style=flat-square&logo=javascript" alt="javascript" />
-  <img src="https://img.shields.io/badge/Code-HTML-orange?style=flat-square&logo=html" alt="html" />
-  <img src="https://img.shields.io/badge/Framework-React-green?style=flat-square&logo=react" alt="react" />
-  <img src="https://img.shields.io/badge/Cloud-Oracle-red?style=flat-square&logo=oracle" alt="oracle" />
-  <img src="https://img.shields.io/badge/Tools-VS_Code-blue?style=flat-square&logo=visual-studio-code" alt="VS_Code" />
-  <img src="https://img.shields.io/badge/Data-Science-blue?style=flat-square&logo=datascience" alt="datascience" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SughoshDixit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Sughosh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SughoshDixit&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SughoshDixit&theme=tokyonight&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-### GitHub Stats 📊
-
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=SughoshDixit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### ⚡ Activity Stats
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SughoshDixit&theme=dark" alt="streak stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SughoshDixit&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SughoshDixit&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SughoshDixit&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
-### 📽 Latest YouTube Videos
+## 🎥 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
+Below are a few of my latest YouTube videos. Check out my [channel](https://www.youtube.com/@SughoshDixit) for more!
+
 - [Intro to Data Science Series](https://www.youtube.com/watch?v=UWUO_3lW8zE&t=4s)
-<!-- YOUTUBE:END -->
 
 ---
 
-### 📝 Latest Blog Posts:
+## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+You can read my thoughts on data, technology, history and more on my [blog](https://sughoshdixit.blogspot.com).
+
 - [Recent Post on Data Science and Bharat](https://sughoshdixit.blogspot.com)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 🚀 Fun Facts about Me:
+## 😊 Fun Facts
 
-- 🌌 Astronomy is something I enjoy in my free time!
-- 🇮🇳 I believe that Bharat's (India) History has been interpreted in the worst ways possible.
-- ⚽ Did I mention football? I play, watch, and follow football with all my heart.
+- 🌌 I love exploring astronomy and stargazing in my free time.
+- 🏛️ I believe Bharat's (India's) history has been interpreted in the worst ways possible and enjoy learning the untold stories.
+- ⚽ Football isn't just a sport for me—it's a passion I live and breathe.
 
 ---
 
-#### Thank You-🙏🏼
-
+Thanks for stopping by! Feel free to explore my repositories and connect with me through GitHub. 🙏
