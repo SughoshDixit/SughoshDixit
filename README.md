@@ -41,6 +41,11 @@ Welcome to my digital garden! By day, I lead **ML4AML (Machine Learning for Anti
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Dr. Vinayak Damodar Savarkar — The Underrated Colossus of Bharat&#39;s Freedom Struggle](https://sughoshdixit.com/blogs/dr.-vinayak-damodar-savarkar-the-underrated-colossus-of-bharat's-freedom-struggle)
+- [Vedic Studies on Marriage Part 1](https://sughoshdixit.com/blogs/vedic-studies-on-marriage-part-1)
+- [Day 30: A Mathematical Blueprint for Robust Decision Frameworks](https://sughoshdixit.com/blogs/day-30-a-mathematical-blueprint-for-robust-decision-frameworks)
+- [Day 29: Putting It All Together - Constructing a Stratified Audit Plan](https://sughoshdixit.com/blogs/day-29-putting-it-all-together-constructing-a-stratified-audit-plan)
+- [Day 28: Robust Imputation and Numeric Coercion](https://sughoshdixit.com/blogs/day-28-robust-imputation-and-numeric-coercion)
 <!-- BLOG-POST-LIST:END -->
 
 ---
