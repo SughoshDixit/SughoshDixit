@@ -21,14 +21,14 @@ Welcome to my digital garden! By day, I lead **ML4AML (Machine Learning for Anti
 
 ---
 
-### 📺 Featured YouTube Content
+### 📺 Featured: Football & AI
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=UWUO_3lW8zE">
-    <img src="https://img.youtube.com/vi/UWUO_3lW8zE/0.jpg" alt="Intro to Data Science" width="300" style="border-radius:10px;" />
+  <a href="https://www.youtube.com/playlist?list=PL6OvmCeVVrDs8KFSnt2jGxWs4_oU0Em7O">
+    <img src="https://img.youtube.com/vi/vX5sqN4Wl78/0.jpg" alt="Football Highlights" width="400" style="border-radius:10px;" />
   </a>
   <br />
-  <b>🎬 Intro to Data Science Series</b>
+  <b>⚽ Scored a Goal, Let AI Drop the Beat! (Football Playlist)</b>
 </p>
 
 ---
