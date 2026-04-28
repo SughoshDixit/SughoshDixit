@@ -6,9 +6,30 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/jQoGptaLixVDC6gGY4/giphy.gif" />
 
-### 👨‍💻 Data Scientist @ Oracle | ⚽ Footballer | 🎸 Musician | 🇮🇳 Civilizationalist
+### 👨‍💻 Data Scientist @ Oracle | ⚽ Liverpool Fan | 🎸 Musician | 🇮🇳 Civilizationalist
 
-Welcome to my digital garden! I'm a **Data Scientist at Oracle**, dedicated to solving complex problems through Data Science, Machine Learning, and AI. My journey is fueled by a passion for technology, a love for the beautiful game, and a deep respect for Bharatiya heritage.
+Welcome to my digital garden! By day, I lead **ML4AML (Machine Learning for Anti-Money Laundering)** product development at **Oracle**, building scalable AI solutions for enterprise financial systems. By night, I'm a long-form writer, exploring the intersections of robust statistics, Vedic studies, and the beautiful game.
+
+---
+
+### 🚀 Professional Journey
+
+- **Oracle**: Leading ML4AML product development & previously Cloud Consultant.
+- **Siemens**: Former Full Stack Developer building industrial automation solutions.
+- **BITS Pilani**: M.Tech in Data Science & Engineering.
+- **Achievements**: Multiple Hackathon wins (Top 15 @ Rakathon), Generative AI expert (LoRA, ComfyUI).
+
+---
+
+### 📺 Featured YouTube Content
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=UWUO_3lW8zE">
+    <img src="https://img.youtube.com/vi/UWUO_3lW8zE/0.jpg" alt="Intro to Data Science" width="300" style="border-radius:10px;" />
+  </a>
+  <br />
+  <b>🎬 Intro to Data Science Series</b>
+</p>
 
 ---
 
@@ -28,15 +49,11 @@ Welcome to my digital garden! I'm a **Data Scientist at Oracle**, dedicated to s
 
 ---
 
-### 📊 Contribution Graph & Activity
+### 📊 Activity & Trophies
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SughoshDixit&theme=tokyo-night" alt="Activity Graph" />
 </p>
-
----
-
-### 🏆 Achievements & Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SughoshDixit&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
@@ -44,9 +61,9 @@ Welcome to my digital garden! I'm a **Data Scientist at Oracle**, dedicated to s
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-#### 🤖 Data Science & ML
+#### 🤖 Data Science & AI
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -54,45 +71,31 @@ Welcome to my digital garden! I'm a **Data Scientist at Oracle**, dedicated to s
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### 🌐 Web & Backend
+#### 🌐 Web & Engineering
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⚙️ Engineering & Tools
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 📺 Latest from YouTube & Blog
-
-*   🎥 **YouTube**: [Intro to Data Science Series](https://www.youtube.com/watch?v=UWUO_3lW8zE&t=4s)
-*   ✍️ **Blog**: [Recent Post on Data Science and Bharat](https://sughoshdixit.blogspot.com)
 
 ---
 
 ### 🎈 Fun Facts
 
-- 🌠 I'm an amateur astronomer and love stargazing.
-- 📖 Passionate about learning the untold stories of Bharat's rich history.
-- ⚽ Football is my escape and my energy source.
+- 🌠 **Amateur Astronomer**: I love gazing at the stars and understanding the universe.
+- 📖 **Civilizationalist**: Passionate about rewriting the narrative of Bharat's rich history.
+- ⚽ **Heavy Metal Football**: Inspired by Jurgen Klopp and Steven Gerrard. Liverpool isn't just a club; it's a philosophy.
 
 ---
 
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sughoshdixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sughosh Dixit" height="30" width="40" /></a>
-  <a href="https://twitter.com/SughoshDixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sughosh Dixit" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@SughoshDixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sughosh Dixit" height="30" width="40" /></a>
+  <a href="https://sughoshdixit.com" target="blank"><img src="https://img.shields.io/badge/Website-sughoshdixit.com-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/sughoshdixit" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Sughosh_Dixit-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/SughoshDixit" target="blank"><img src="https://img.shields.io/badge/Twitter-@SughoshDixit-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.youtube.com/@sughoshdixit" target="blank"><img src="https://img.shields.io/badge/YouTube-@sughoshdixit-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 ---
