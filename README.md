@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sughosh%20Dixit&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/jQoGptaLixVDC6gGY4/giphy.gif" />
+
 ### 👨‍💻 Data Scientist @ Oracle | ⚽ Footballer | 🎸 Musician | 🇮🇳 Civilizationalist
 
 Welcome to my digital garden! I'm a **Data Scientist at Oracle**, dedicated to solving complex problems through Data Science, Machine Learning, and AI. My journey is fueled by a passion for technology, a love for the beautiful game, and a deep respect for Bharatiya heritage.
