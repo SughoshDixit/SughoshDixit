@@ -4,9 +4,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sughosh%20Dixit&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Data+Scientist+@+Oracle;Leading+ML4AML+Development;Liverpool+FC+Enthusiast;Musician+and+Civilizationalist" alt="Typing SVG" />
+  </a>
+</p>
+
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/jQoGptaLixVDC6gGY4/giphy.gif" />
 
-### 👨‍💻 Data Scientist @ Oracle | ⚽ Liverpool Fan | 🎸 Musician | 🇮🇳 Civilizationalist
+### 👨‍💻 About Me
 
 Welcome to my digital garden! By day, I lead **ML4AML (Machine Learning for Anti-Money Laundering)** product development at **Oracle**, building scalable AI solutions for enterprise financial systems. By night, I'm a long-form writer, exploring the intersections of robust statistics, Vedic studies, and the beautiful game.
 
@@ -33,23 +39,40 @@ Welcome to my digital garden! By day, I lead **ML4AML (Machine Learning for Anti
 
 ---
 
-### 🚀 Quick Stats & Insights
+### ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SughoshDixit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SughoshDixit&theme=tokyonight" alt="GitHub Streak" />
-</p>
+### 🛠️ Tech Expertise & Skills
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SughoshDixit&theme=tokyonight&layout=compact" alt="Top Languages" />
 </p>
 
+#### 🤖 Data Science & ML
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### 🌐 Web & Engineering
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ---
 
-### 📊 Activity & Trophies
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SughoshDixit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SughoshDixit&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SughoshDixit&theme=tokyo-night" alt="Activity Graph" />
@@ -58,26 +81,6 @@ Welcome to my digital garden! By day, I lead **ML4AML (Machine Learning for Anti
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SughoshDixit&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
 </p>
-
----
-
-### 🛠️ Tech Stack
-
-#### 🤖 Data Science & AI
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-#### 🌐 Web & Engineering
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
