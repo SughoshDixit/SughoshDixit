@@ -41,7 +41,7 @@ Welcome to my digital garden! By day, I lead **ML4AML (Machine Learning for Anti
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Limits of Empirical Absolutism: Why Scientific Materialism is Incomplete](https://sughoshdixit.com/blogs/the-limits-of-empirical-absolutism-why-scientific-materialism-is-incomplete)
+- [Stop Defending Hindu Rituals with Pseudoscience](https://sughoshdixit.com/blogs/stop-defending-hindu-rituals-with-pseudoscience)
 - [Hari Vayu Stuti Deep-Dive Part 1: The Sacred Shield and the Opening Praise](https://sughoshdixit.com/blogs/hari-vayu-stuti-deep-dive-part-1-the-sacred-shield-and-the-opening-praise)
 - [Hari Vayu Stuti Deep-Dive Part 2: The Mighty Deeds of Hanuman and Bhimasena](https://sughoshdixit.com/blogs/hari-vayu-stuti-deep-dive-part-2-the-mighty-deeds-of-hanuman-and-bhimasena)
 - [Hari Vayu Stuti Deep-Dive Part 3: Bhimasena&#39;s Kurukshetra Deeds and Sri Madhvacharya&#39;s Mission](https://sughoshdixit.com/blogs/hari-vayu-stuti-deep-dive-part-3-bhimasena's-kurukshetra-deeds-and-sri-madhvacharya's-mission)
