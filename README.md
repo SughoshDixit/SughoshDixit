@@ -43,9 +43,9 @@ Welcome to my digital garden! By day, I lead **ML4AML (Machine Learning for Anti
 <!-- BLOG-POST-LIST:START -->
 - [Titan&#39;s Horological Revolution: Business Strategy Lessons from Xerxes Desai &amp; JRD Tata](https://sughoshdixit.com/blogs/titan's-horological-revolution-business-strategy-lessons-from-xerxes-desai-and-jrd-tata)
 - [Stop Defending Hindu Rituals with Pseudoscience](https://sughoshdixit.com/blogs/stop-defending-hindu-rituals-with-pseudoscience)
-- [Hari Vayu Stuti Deep-Dive Part 1: The Sacred Shield and the Opening Praise](https://sughoshdixit.com/blogs/hari-vayu-stuti-deep-dive-part-1-the-sacred-shield-and-the-opening-praise)
-- [Hari Vayu Stuti Deep-Dive Part 2: The Mighty Deeds of Hanuman and Bhimasena](https://sughoshdixit.com/blogs/hari-vayu-stuti-deep-dive-part-2-the-mighty-deeds-of-hanuman-and-bhimasena)
-- [Hari Vayu Stuti Deep-Dive Part 3: Bhimasena&#39;s Kurukshetra Deeds and Sri Madhvacharya&#39;s Mission](https://sughoshdixit.com/blogs/hari-vayu-stuti-deep-dive-part-3-bhimasena's-kurukshetra-deeds-and-sri-madhvacharya's-mission)
+- [Dr. Vinayak Damodar Savarkar — The Underrated Colossus of Bharat&#39;s Freedom Struggle](https://sughoshdixit.com/blogs/dr.-vinayak-damodar-savarkar-the-underrated-colossus-of-bharat's-freedom-struggle)
+- [Why Support Liverpool F.C? The Beautiful Game vs The Lazy Game](https://sughoshdixit.com/blogs/why-support-liverpool-f.c-the-beautiful-game-vs-the-lazy-game)
+- [India in a Shifting Global Order — Book Notes](https://sughoshdixit.com/blogs/india-in-a-shifting-global-order-book-notes)
 <!-- BLOG-POST-LIST:END -->
 
 ---
