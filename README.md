@@ -41,7 +41,7 @@ Welcome to my digital garden! By day, I lead **ML4AML (Machine Learning for Anti
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Titan: A Made In India Story - The Journey of Xerxes Desai &amp; JRD Tata](https://sughoshdixit.com/blogs/titan-a-made-in-india-story-the-journey-of-xerxes-desai-and-jrd-tata)
+- [Titan&#39;s Horological Revolution: Business Strategy Lessons from Xerxes Desai &amp; JRD Tata](https://sughoshdixit.com/blogs/titan's-horological-revolution-business-strategy-lessons-from-xerxes-desai-and-jrd-tata)
 - [Stop Defending Hindu Rituals with Pseudoscience](https://sughoshdixit.com/blogs/stop-defending-hindu-rituals-with-pseudoscience)
 - [Hari Vayu Stuti Deep-Dive Part 1: The Sacred Shield and the Opening Praise](https://sughoshdixit.com/blogs/hari-vayu-stuti-deep-dive-part-1-the-sacred-shield-and-the-opening-praise)
 - [Hari Vayu Stuti Deep-Dive Part 2: The Mighty Deeds of Hanuman and Bhimasena](https://sughoshdixit.com/blogs/hari-vayu-stuti-deep-dive-part-2-the-mighty-deeds-of-hanuman-and-bhimasena)
