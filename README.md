@@ -42,10 +42,10 @@ Welcome to my digital garden! By day, I lead **ML4AML (Machine Learning for Anti
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Titan&#39;s Horological Revolution: Business Strategy Lessons from Xerxes Desai &amp; JRD Tata](https://sughoshdixit.com/blogs/titan's-horological-revolution-business-strategy-lessons-from-xerxes-desai-and-jrd-tata)
-- [Stop Defending Hindu Rituals with Pseudoscience](https://sughoshdixit.com/blogs/stop-defending-hindu-rituals-with-pseudoscience)
 - [Dr. Vinayak Damodar Savarkar — The Underrated Colossus of Bharat&#39;s Freedom Struggle](https://sughoshdixit.com/blogs/dr.-vinayak-damodar-savarkar-the-underrated-colossus-of-bharat's-freedom-struggle)
 - [Why Support Liverpool F.C? The Beautiful Game vs The Lazy Game](https://sughoshdixit.com/blogs/why-support-liverpool-f.c-the-beautiful-game-vs-the-lazy-game)
 - [India in a Shifting Global Order — Book Notes](https://sughoshdixit.com/blogs/india-in-a-shifting-global-order-book-notes)
+- [Gratitude for Being Born in the Ancient Civilization of Bharatavarsha](https://sughoshdixit.com/blogs/gratitude-for-being-born-in-the-ancient-civilization-of-bharatavarsha)
 <!-- BLOG-POST-LIST:END -->
 
 ---
